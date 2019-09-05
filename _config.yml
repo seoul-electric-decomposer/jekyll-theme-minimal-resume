@@ -1,13 +1,13 @@
 # Site settings
-title: SED
-description: Seoul Electric Decomposer
+title: Seoul Electric Decomposer
+description: blah blah blah
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: SED
+username: Seoul Electric Decomposer
 user_description: blah blah blah
-user_title: Seoul Electric Decomposer
+user_title: blah blah blah
 email: seoul-electric-decomposer@gmail.com
 twitter_username: seoul-electric-decomposer
 github_username: seoul-electric-decomposer
